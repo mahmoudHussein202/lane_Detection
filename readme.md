@@ -11,3 +11,12 @@ to run the code :
 
 3- you can exit by pressing "q" .
 
+Note:
+--------
+
+There's a "How to use Video"
+
+Dependencies : 
+---------------
+1- openCV 
+2- numpy 
