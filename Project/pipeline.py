@@ -78,7 +78,7 @@ def lane_finding_pipeline(img,isDebug):
     veh_pos = position_measurement.measure_position_meters(binary_warped, left_fit, right_fit) 
     out_img,new_warp = project_lane_info.project_lane_info(img, binary_warped, ploty, left_fitx, right_fitx, M_inv, left_curverad, right_curverad, veh_pos)
 
-    if isDebug =="1":
+    if isDebug ==1:
         #Display the output with the pipeline
         binary_thresh[binary_thresh==1]=255
         binary_thresh=cv2.cvtColor(binary_thresh,cv2.COLOR_GRAY2BGR)
