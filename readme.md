@@ -14,7 +14,7 @@ to run the code :
 Note:
 --------
 
-There's a "How to use Video"
+There's a "How to use " Video.
 
 Dependencies : 
 ---------------
