@@ -1,6 +1,7 @@
 to run the code : 
 -------------------
 1- run the main.py in /project.
+
 2- in Terminal :
 
           -you'll be asked to enter 0 for final result , and 1 for debugging mode.
