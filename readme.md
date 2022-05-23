@@ -9,5 +9,5 @@ to run the code :
   -you will be asked to enter 0 or 1 " 0 for images and 1 for videos ". 
           
 
-4- you can exit by pressing "q" .
+3- you can exit by pressing "q" .
 
